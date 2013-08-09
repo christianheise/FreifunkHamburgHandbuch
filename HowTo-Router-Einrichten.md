@@ -1,7 +1,7 @@
 #  Freifunk Hamburg Router einrichten
 ### Schnell–Anleitung
 
-Diese Anleitung wird dir schnell und einfach erklären, wie du deinen erworbenen Router installierst und konfigurierst. Falls du noch keinen Router hast, melde dich bei <kontakt@hamburg.freifunk.net>.
+Diese Anleitung wird dir schnell und einfach erklären, wie du deinen erworbenen Freifunk Router installierst und konfigurierst. Falls du noch keinen Freifunk Router hast, melde dich bei <kontakt@hamburg.freifunk.net>.
 
 ## Einleitung
 Das Einrichten des Routers ist ganz einfach und Du benötigst keine technischen Kenntnisse. Wenn du dieser Anleitung genau folgst kann eigentlich nichts schiefgehen.
